@@ -1,6 +1,6 @@
 ## Description
 
-A Twitter clone build with Nest and React frameworks.
+Twitter clone written in TypeScript using NestJS and ReactJS frameworks
 
 ## Installation
 
